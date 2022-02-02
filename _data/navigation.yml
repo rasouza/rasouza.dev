@@ -12,12 +12,13 @@ main:
     icon: "person"
     slug: "about"
     sections:
-        - about
-        - services
-        - pricing
+        - about2
+        # - services
+        # - pricing
         - facts
-        - clients
-        - testimonials
+        # - clients
+        # - testimonials
+        - quote
   
   #resume card
   - title: "Resume"

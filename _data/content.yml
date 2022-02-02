@@ -8,21 +8,10 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Rodrigo Souza.</strong><br> Software Engineer at <a href=\"https://klarna.com\" target=\"_blank\"><strong>Klarna</strong></a>. I’m a microservices specialist and a computer scientist passionate about algorithm optimisation and software architecture.
         </p>
         "
-  list:
-    - label: "Age"
-      value: "24"
 
-    - label: "Residence"
-      value: "USA"
-
-    - label: "Freelance"
-      value: "Available"
-
-    - label: "Address"
-      value: "California, USA"
 
 ### Services [ services ]
 services:
@@ -112,17 +101,17 @@ pricing:
 facts:
   title: "Fun Fact"
   items:
-    - icon: "disc"
-      name: "80 Albumes Listened"
+    - icon: "ion ion-code"
+      name: "20+ Known Languages"
 
-    - icon: "trophy"
-      name: "15 Awards Won"
+    - icon: "ion ion-flag"
+      name: "9 Countried Visited"
 
-    - icon: "coffee"
-      name: "1 000 Cups of coffee"
+    - icon: "ion ion-social-youtube"
+      name: "Guitar Player Youtuber"
 
-    - icon: "flag"
-      name: "10 Countries Visited"
+    - icon: "ion ion-beaker"
+      name: "1000+ Shots of Tequila"
 
 ### Clients [ clients ]
 clients:
@@ -158,6 +147,9 @@ testimonials:
       name: "Helen Floyd"
       subname: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+quote: 
+  text: Calm down it's only ones and zeros
 
 ### Resume [ resume ]
 resume:

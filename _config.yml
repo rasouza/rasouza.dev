@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "RyanCV - CV / Resume Jekyll Theme"
-email: "your-email@example.com"
-description: "Jekyll Resume / CV / vCard template"
+title: "Rodrigo Souza"
+email: "alves.wm@gmail.com"
+description: "vCard"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rasouza.dev" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
 
 # paginations & permalinks
@@ -33,11 +33,11 @@ paginate_path: "/page:num/"
 permalink: pretty
 
 # disqus comments
-disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
+disqus_comments: "no" # yes - show disqus comments, no - hide disqus comments
 disqus_shortname: "ryancv-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
-formsubmit_email: "beshleyweb@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
+formsubmit_email: "rasouza26@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
 
 # google maps
 google_maps_api_key: "AIzaSyDz2w7HUaWudHwd7AWQpCL48Qs050WOn9s" #google maps api key
