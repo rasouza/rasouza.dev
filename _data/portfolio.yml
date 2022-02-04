@@ -1,21 +1,9 @@
-title: "Recent Works"
+title: "Useful Links"
 filters:
   - name: "All"
     slug: "grid-item"
     active: 1
 
-  - name: "Photo"
-    slug: "photo"
-    active: 0
-
-  - name: "Video"
-    slug: "video"
-    active: 0
-
-  - name: "Music"
-    slug: "music"
-    active: 0
-
-  - name: "Design"
-    slug: "design"
+  - name: "Bookmark"
+    slug: "bookmark"
     active: 0

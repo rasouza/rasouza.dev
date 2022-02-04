@@ -27,14 +27,14 @@ main:
   #blog card
   - title: "Press"
     icon: "chatbox-working"
-    slug: "blog"
+    slug: "press"
     sections:
         - blog
   
   #works card
   - title: "Links"
     icon: "ion ion-link"
-    slug: "works"
+    slug: "links"
     sections:
         - portfolio
   
