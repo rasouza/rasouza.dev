@@ -122,6 +122,26 @@
 		</div>
 		{% endif %}
 
+		{% if work.type == 'link' %}
+		<!-- work item photo -->
+		<div class="col col-d-6 col-t-6 col-m-12 grid-item {{ work.category_slug }} border-line-h">
+			<div class="box-item">
+				<div class="image">
+					<a href="{{ work.link }}" target="_blank">
+						<img src="{{ work.image | relative_url }}" alt="{{ work.title }}" />
+						<span class="info">
+							<span class="ion ion-image"></span>
+						</span>
+					</a>
+				</div>
+				<div class="desc">
+					<a href="{{ work.link }}" class="name" target="_blank">{{ work.title }}</a>
+					<div class="category">{{ work.category }}</div>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+
 		{% endfor %}
 
 		<div class="clear"></div>
