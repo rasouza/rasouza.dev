@@ -1,0 +1,19 @@
+### Contact Info List [ contacts-info ]
+contacts_info:
+  title: "Get in Touch"
+  list:
+    - label: "Address"
+      value: "California, USA"
+
+    - label: "Email"
+      value: "adlard@example.com"
+
+    - label: "Phone"
+      value: "+123 654 78900"
+
+    - label: "Freelance"
+      value: "Available"
+
+### Contact Form [ contacts-form ]
+contacts_form:
+  title: "Contact Form"

@@ -1,0 +1,21 @@
+title: "Recent Works"
+filters:
+  - name: "All"
+    slug: "grid-item"
+    active: 1
+
+  - name: "Photo"
+    slug: "photo"
+    active: 0
+
+  - name: "Video"
+    slug: "video"
+    active: 0
+
+  - name: "Music"
+    slug: "music"
+    active: 0
+
+  - name: "Design"
+    slug: "design"
+    active: 0

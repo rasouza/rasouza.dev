@@ -1,0 +1,86 @@
+title: "Resume"
+experience:
+  title: "Experience"
+  icon: "briefcase"
+  items:
+    - year: 2021 - Present
+      role: Software Engineer
+      company: Klarna
+      image: klarna.jpeg
+      active: 1
+      h_line: 1
+    - year: 2020
+      role: Product Manager
+      company: Sami
+      image: sami.png
+      active: 0
+      h_line: 0
+    - year: 2021
+      role: Software Architect
+      company: Sami
+      active: 0
+      h_line: 1
+    - year: 2019 - 2020
+      role: Tech Lead
+      company: Sumup
+      image: sumup.png
+      active: 0
+      h_line: 0
+    - year: 2018 - 2019
+      role: Software Engineer
+      company: Sumup
+      active: 0
+      h_line: 1
+    - year: 2015-2016
+      role: Sysadmin
+      company: IME-USP
+      image: usp.png
+      active: 0
+      h_line: 1
+    - year: 2013-2014
+      role: Software Engineer
+      company: Credit Suisse
+      image: credit-suisse.png
+      active: 0
+      h_line: 1
+    - year: 2013
+      role: System Analyst
+      company: Rocket Internet GmbH
+      image: rocket-internet.png
+      active: 0
+      h_line: 1
+    - year: 2012
+      role: System Analyst
+      company: Engebras
+      image: engebras.gif
+      active: 0
+      h_line: 1
+    - year: 2011-2021
+      role: System Analyst
+      company: Itau Unibanco
+      image: itau.png
+      active: 0
+      h_line: 0
+    
+education:
+  title: "Education"
+  icon: "university"
+  items:
+    - year: 2012-2017
+      institution: Computer Science
+      city: University of Sao Paulo (USP)
+      text: Bachelor’s Degree in Computer Science with emphasis in Artificial Intelligence
+      image: usp.png
+      h_line: 1
+
+    - year: 2009-2012
+      institution: Physics
+      city: University of Sao Paulo (USP)
+      image: usp.png
+      h_line: 1
+
+    - year: "2004 - 2005"
+      institution: Business Management
+      city: Eniac
+      image: eniac.png
+      h_line: 0

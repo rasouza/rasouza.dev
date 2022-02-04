@@ -1,0 +1,10 @@
+### About [ about ]
+title: "About Me"
+text: "
+      <p>
+        <strong>Hello! I’m Rodrigo Souza.</strong><br> Software Engineer at <a href=\"https://klarna.com\" target=\"_blank\"><strong>Klarna</strong></a>. I’m a microservices specialist and a computer scientist passionate about algorithm optimisation and software architecture.
+      </p>
+      "
+
+quote: 
+  text: Calm down it's only ones and zeros

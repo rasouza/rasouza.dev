@@ -1,0 +1,21 @@
+title: "My Services"
+items:
+  - icon: "code"
+    name: "Web Development"
+    text: "Modern and mobile-ready website that will help you reach all of your marketing."
+    h_line: 1
+
+  - icon: "music-note"
+    name: "Music Writing"
+    text: "Music copying, transcription, arranging and composition services."
+    h_line: 1
+
+  - icon: "speakerphone"
+    name: "Advetising"
+    text: "Advertising services include television, radio, print, mail and web."
+    h_line: 0
+
+  - icon: "ios-game-controller-b"
+    name: "Game Development"
+    text: "Developing memorable and unique mobile android, ios games."
+    h_line: 0

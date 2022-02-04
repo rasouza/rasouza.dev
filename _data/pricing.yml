@@ -1,0 +1,57 @@
+title: "Pricing"
+items:
+  - icon: "speedometer speed-basic"
+    name: "Basic"
+    price_pre: "$"
+    price: "22"
+    price_after: "hour"
+    list:
+      - text: "Web Development"
+        disable: 0
+        new: 0
+
+      - text: "Advetising"
+        disable: 0
+        new: 0
+
+      - text: "Game Development"
+        disable: 0
+        new: 0
+
+      - text: "Music Writing"
+        disable: 1
+        new: 0
+
+      - text: "Photography"
+        disable: 1
+        new: 1
+    button_link: "#"
+    button_text: "Buy Basic"
+
+  - icon: "speedometer"
+    name: "Pro"
+    price_pre: "$"
+    price: "48"
+    price_after: "hour"
+    list:
+      - text: "Web Development"
+        disable: 0
+        new: 0
+
+      - text: "Advetising"
+        disable: 0
+        new: 0
+
+      - text: "Game Development"
+        disable: 0
+        new: 0
+
+      - text: "Music Writing"
+        disable: 0
+        new: 0
+
+      - text: "Photography"
+        disable: 0
+        new: 1
+    button_link: "#"
+    button_text: "Buy Pro"

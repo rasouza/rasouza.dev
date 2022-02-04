@@ -1,0 +1,77 @@
+title: "My Skills"
+columns:
+  - type: "dotted" #skills progress type - default, dotted, circles, list
+    title: "Backend"
+    icon: "ion ion-code"
+    items:
+      - label: "Web Design"
+        value: "90" #0-100 progress in %
+
+      - label: "Write Music"
+        value: "65" #0-100 progress in %
+
+      - label: "Photoshop"
+        value: "75" #0-100 progress in %
+
+      - label: "Graphic Design"
+        value: "85" #0-100 progress in %
+
+  - type: "dotted" #skills progress type - default, dotted, circles, list
+    title: "Languages"
+    icon: "flag"
+    items:
+      - label: "English"
+        value: "90" #0-100 progress in %
+
+      - label: "German"
+        value: "60" #0-100 progress in %
+
+      - label: "Italian"
+        value: "30" #0-100 progress in %
+
+      - label: "French"
+        value: "70" #0-100 progress in %
+
+  - type: "circles" #skills progress type - default, dotted, circles, list
+    title: "Coding"
+    icon: "code"
+    items:
+      - label: "WordPress"
+        value: "90" #0-100 progress in %
+
+      - label: "PHP / MYSQL"
+        value: "75" #0-100 progress in %
+
+      - label: "Angular / JavaScript"
+        value: "85" #0-100 progress in %
+
+      - label: "HTML / CSS"
+        value: "95" #0-100 progress in %
+
+  - type: "list" #skills progress type - default, dotted, circles, list
+    title: "Knowledge"
+    icon: "android-list"
+    items:
+      - label: "Website hosting"
+        value: "" #0-100 progress in %
+
+      - label: "iOS and android apps"
+        value: "" #0-100 progress in %
+
+      - label: "Create logo design"
+        value: "" #0-100 progress in %
+
+      - label: "Design for print"
+        value: "" #0-100 progress in %
+
+      - label: "Modern and mobile-ready"
+        value: "" #0-100 progress in %
+
+      - label: "Advertising services include"
+        value: "" #0-100 progress in %
+
+      - label: "Graphics and animations"
+        value: "" #0-100 progress in %
+
+      - label: "Search engine marketing"
+        value: "" #0-100 progress in %

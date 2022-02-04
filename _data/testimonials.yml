@@ -1,0 +1,16 @@
+title: "Testimonials"
+items:
+  - image: "assets/img/man1.jpg"
+    name: "Helen Floyd"
+    subname: "Art Director"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  - image: "assets/img/man1.jpg"
+    name: "Robert Chase"
+    subname: "CEO"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  - image: "assets/img/man1.jpg"
+    name: "Helen Floyd"
+    subname: "Art Director"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
