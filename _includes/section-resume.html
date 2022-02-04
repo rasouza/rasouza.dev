@@ -1,4 +1,4 @@
-{% assign content = site.data.content['resume'] %}
+{% assign content = site.data.resume %}
 
 <!-- Resume -->
 <div class="content resume">
@@ -20,12 +20,18 @@
 			<div class="resume-items">
 				{% for item in content.experience.items %}
 				<div class="resume-item{% if item.h_line == 1 %} border-line-h{% endif %}{% if item.active == 1 %} active{% endif %}">
+					{% if item.image %}
+					<div class="image">
+						<img src="/assets/img/resume/{{ item.image }}" />
+					</div>
+					{% endif %}
 					<div class="date">{{ item.year }}</div>
 					<div class="name">{{ item.role }}</div>
 					<div class="company">{{ item.company }}</div>
 					<p>
 						{{ item.text }}
 					</p>
+					
 				</div>
 				{% endfor %}
 			</div>
@@ -40,6 +46,11 @@
 			<div class="resume-items">
 				{% for item in content.education.items %}
 				<div class="resume-item{% if item.h_line == 1 %} border-line-h{% endif %}">
+					{% if item.image %}
+					<div class="image">
+						<img src="/assets/img/resume/{{ item.image }}" />
+					</div>
+					{% endif %}
 					<div class="date">{{ item.year }}</div>
 					<div class="name">{{ item.institution }}</div>
 					<div class="company">{{ item.city }}</div>
