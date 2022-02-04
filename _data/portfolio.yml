@@ -4,6 +4,10 @@ filters:
     slug: "grid-item"
     active: 1
 
-  - name: "Bookmark"
-    slug: "bookmark"
+  - name: "Reading List"
+    slug: "reading-list"
+    active: 0
+
+  - name: "Tools"
+    slug: "tool"
     active: 0
