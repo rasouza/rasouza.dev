@@ -13,11 +13,7 @@ main:
     slug: "about"
     sections:
         - about2
-        # - services
-        # - pricing
         - facts
-        # - clients
-        # - testimonials
         - quote
   
   #resume card
@@ -28,19 +24,19 @@ main:
         - resume
         - skills
   
-  #works card
-  - title: "works"
-    icon: "paintbrush"
-    slug: "works"
-    sections:
-        - portfolio
-  
   #blog card
-  - title: "Blog"
+  - title: "Press"
     icon: "chatbox-working"
     slug: "blog"
     sections:
         - blog
+  
+  #works card
+  - title: "Links"
+    icon: "ion ion-link"
+    slug: "works"
+    sections:
+        - portfolio
   
   #contact card
   - title: "Contact"

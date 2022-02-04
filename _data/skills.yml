@@ -32,7 +32,7 @@ columns:
 
   - type: "default" #skills progress type - default, dotted, circles, list
     title: "Frontend"
-    icon: "ion ion-desktop"
+    icon: "ion ion-laptop"
     items:
       - label: "React / React Native"
         value: "90" #0-100 progress in %
@@ -81,24 +81,24 @@ columns:
         value: "50" #0-100 progress in %
 
       
-  - type: "default" #skills progress type - default, dotted, circles, list
-    title: "Frameworks"
-    icon: "ion ion-cog"
-    items:
-      - label: "NestJS"
-        value: "80" #0-100 progress in %
+  # - type: "default" #skills progress type - default, dotted, circles, list
+  #   title: "Frameworks"
+  #   icon: "ion ion-gear-b"
+  #   items:
+  #     - label: "NestJS"
+  #       value: "80" #0-100 progress in %
 
-      - label: "Rails"
-        value: "80" #0-100 progress in %
+  #     - label: "Rails"
+  #       value: "80" #0-100 progress in %
 
-      - label: "Laravel"
-        value: "90" #0-100 progress in %
+  #     - label: "Laravel"
+  #       value: "90" #0-100 progress in %
 
-      - label: "Django"
-        value: "60" #0-100 progress in %
+  #     - label: "Django"
+  #       value: "60" #0-100 progress in %
 
-      - label: "Electron"
-        value: "40" #0-100 progress in %
+  #     - label: "Electron"
+  #       value: "40" #0-100 progress in %
       
 
   - type: "list" #skills progress type - default, dotted, circles, list
