@@ -1,77 +1,133 @@
 title: "My Skills"
 columns:
-  - type: "dotted" #skills progress type - default, dotted, circles, list
+  - type: "default" #skills progress type - default, dotted, circles, list
     title: "Backend"
     icon: "ion ion-code"
     items:
-      - label: "Web Design"
-        value: "90" #0-100 progress in %
+      - label: "NodeJS"
+        value: "100" #0-100 progress in %
 
-      - label: "Write Music"
-        value: "65" #0-100 progress in %
+      - label: "PHP"
+        value: "100" #0-100 progress in %
 
-      - label: "Photoshop"
-        value: "75" #0-100 progress in %
+      - label: "Ruby"
+        value: "100" #0-100 progress in %
 
-      - label: "Graphic Design"
+      - label: "Python"
         value: "85" #0-100 progress in %
 
-  - type: "dotted" #skills progress type - default, dotted, circles, list
-    title: "Languages"
-    icon: "flag"
-    items:
-      - label: "English"
-        value: "90" #0-100 progress in %
-
-      - label: "German"
-        value: "60" #0-100 progress in %
-
-      - label: "Italian"
+      - label: "C# / VB .NET"
         value: "30" #0-100 progress in %
 
-      - label: "French"
-        value: "70" #0-100 progress in %
+      - label: "Go"
+        value: "50" #0-100 progress in %
 
-  - type: "circles" #skills progress type - default, dotted, circles, list
-    title: "Coding"
-    icon: "code"
+      - label: "Java"
+        value: "60" #0-100 progress in %
+
+      - label: "Elixir"
+        value: "20" #0-100 progress in %
+
+      
+
+  - type: "default" #skills progress type - default, dotted, circles, list
+    title: "Frontend"
+    icon: "ion ion-desktop"
     items:
-      - label: "WordPress"
+      - label: "React / React Native"
         value: "90" #0-100 progress in %
 
-      - label: "PHP / MYSQL"
-        value: "75" #0-100 progress in %
+      - label: "Angular"
+        value: "60" #0-100 progress in %
 
-      - label: "Angular / JavaScript"
-        value: "85" #0-100 progress in %
+      - label: "Vue"
+        value: "30" #0-100 progress in %
 
-      - label: "HTML / CSS"
-        value: "95" #0-100 progress in %
+      - label: "Flutter"
+        value: "30" #0-100 progress in %
+
+      - label: "Javascript"
+        value: "70" #0-100 progress in %
+
+      - label: "HTML 5"
+        value: "100" #0-100 progress in %
+
+      - label: "CSS"
+        value: "50" #0-100 progress in %
+
+  - type: "default" #skills progress type - default, dotted, circles, list
+    title: "Platform"
+    icon: "ion ion-cube"
+    items:
+      - label: "MongoDB"
+        value: "90" #0-100 progress in %
+
+      - label: "SQL"
+        value: "100" #0-100 progress in %
+      
+      - label: "Kafka"
+        value: "90" #0-100 progress in %
+      
+      - label: "RabbitMQ"
+        value: "100" #0-100 progress in %
+      
+      - label: "Kubernetes"
+        value: "90" #0-100 progress in %
+
+      - label: "Service Mesh"
+        value: "60" #0-100 progress in %
+      
+      - label: "Terraform"
+        value: "50" #0-100 progress in %
+
+      
+  - type: "default" #skills progress type - default, dotted, circles, list
+    title: "Frameworks"
+    icon: "ion ion-cog"
+    items:
+      - label: "NestJS"
+        value: "80" #0-100 progress in %
+
+      - label: "Rails"
+        value: "80" #0-100 progress in %
+
+      - label: "Laravel"
+        value: "90" #0-100 progress in %
+
+      - label: "Django"
+        value: "60" #0-100 progress in %
+
+      - label: "Electron"
+        value: "40" #0-100 progress in %
+      
 
   - type: "list" #skills progress type - default, dotted, circles, list
     title: "Knowledge"
     icon: "android-list"
     items:
-      - label: "Website hosting"
+      - label: "Microservices Architecture"
         value: "" #0-100 progress in %
 
-      - label: "iOS and android apps"
+      - label: "SOLID principles"
         value: "" #0-100 progress in %
 
-      - label: "Create logo design"
+      - label: "Agile principles"
         value: "" #0-100 progress in %
 
-      - label: "Design for print"
+      - label: "Management 3.0"
         value: "" #0-100 progress in %
 
-      - label: "Modern and mobile-ready"
+      - label: "Event-Driven Architecture"
         value: "" #0-100 progress in %
 
-      - label: "Advertising services include"
+      - label: "Clean Architecture"
         value: "" #0-100 progress in %
 
-      - label: "Graphics and animations"
+      - label: "DevOps Culture"
         value: "" #0-100 progress in %
 
-      - label: "Search engine marketing"
+      - label: "Automated Testing"
+        value: "" #0-100 progress in %
+
+      - label: "CI/CD"
         value: "" #0-100 progress in %
