@@ -2,18 +2,12 @@
 contacts_info:
   title: "Get in Touch"
   list:
-    - label: "Address"
-      value: "California, USA"
+    - label: "Location"
+      value: "Stockholm, Swedem"
 
     - label: "Email"
-      value: "adlard@example.com"
-
-    - label: "Phone"
-      value: "+123 654 78900"
-
-    - label: "Freelance"
-      value: "Available"
+      value: "alves.wm@gmail.com"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
-  title: "Contact Form"
+  title: "Send me an e-mail"
