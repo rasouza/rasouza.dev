@@ -21,8 +21,8 @@ main:
     icon: "android-list"
     slug: "resume"
     sections:
-        - resume
         - skills
+        - resume
   
   #blog card
   - title: "Press"
