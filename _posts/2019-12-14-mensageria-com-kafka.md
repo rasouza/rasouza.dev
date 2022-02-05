@@ -4,7 +4,7 @@ title: "Mensageria com Kafka: manipulando dados em tempo real"
 date: 2019-12-14
 category:
   - Talk
-image: kafka.jpeg
+image: kafka.png
 author: Rodrigo Souza
 tags:
   - PT-BR

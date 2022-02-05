@@ -25,7 +25,7 @@ layout: default
 						<div class="image">
 							<a href="{{ post.url }}">
 								{% if post.image != nil %}
-								<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" />
+								{% picture blog "assets/img/blog/{{ post.image }}" --alt {{ post.title }} %}
 								{% endif %}
 								<span class="info">
 									<span class="ion ion-document-text"></span>
