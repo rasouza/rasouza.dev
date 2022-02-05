@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
   gem "jekyll_picture_tag"
+  gem "jekyll-minifier"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
