@@ -48,7 +48,7 @@ layout: default
 						{% if page.image %}
 						<!-- blog image -->
 						<div class="blog-image">
-							<img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
+							{% picture blog "assets/img/blog/{{ page.image }}" --alt {{ page.title }} %}
 						</div>  
 						{% endif %}
 						

@@ -53,6 +53,11 @@ presets:
   # You can use this as jpt-webp. All following presets follow the same pattern.
   webp:
     formats: [webp, original]
+  
+  blog:
+    formats: [webp, original]
+    crop: "20:9"
+    keep: center
 
   # Avif is the new hotness coming down the pipe. Browser support is bad and they are slow to
   # generate, but you get good file sizes even compared to webp of similar quality.
@@ -78,7 +83,7 @@ presets:
   # Another pixel-ratio example.
   avatar:
     # Say your layout demands a square:
-    crop: 1:1
+    crop: "1:1"
     base_width: 100
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 100,
