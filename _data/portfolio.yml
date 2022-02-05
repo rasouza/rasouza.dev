@@ -11,3 +11,7 @@ filters:
   - name: "Tools"
     slug: "tool"
     active: 0
+
+  - name: "Talks"
+    slug: "talk"
+    active: 0

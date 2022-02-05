@@ -4,7 +4,7 @@ title: "Clean Architecture em NodeJS"
 date: 2020-08-24
 category:
   - Talk
-image: clean-architecture-devconf.png
+image: clean-architecture.png
 author: Rodrigo Souza
 tags:
   - PT-BR

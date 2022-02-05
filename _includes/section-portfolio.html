@@ -28,7 +28,7 @@
 			<div class="box-item">
 				<div class="image">
 					<a href="{{ work.image | relative_url }}" class="has-popup-image">
-						<img src="{{ work.image | relative_url }}" alt="{{ work.title }}" />
+						{% picture webp "assets/img/works/{{ work.image }}" --alt "{{work.title}}" %}
 						<span class="info">
 							<span class="ion ion-image"></span>
 						</span>
@@ -48,7 +48,7 @@
 			<div class="box-item">
 				<div class="image">
 					<a href="{{ work.video }}" class="has-popup-video">
-						<img src="{{ work.image | relative_url }}" alt="{{ work.title }}" />
+						{% picture webp "assets/img/works/{{ work.image }}" --alt "{{work.title}}" %}
 						<span class="info">
 							<span class="ion ion-videocamera"></span>
 						</span>
@@ -68,7 +68,7 @@
 			<div class="box-item">
 				<div class="image">
 					<a href="{{ work.music }}" class="has-popup-music">
-						<img src="{{ work.image | relative_url }}" alt="{{ work.title }}" />
+						{% picture webp "assets/img/works/{{ work.image }}" --alt "{{work.title}}" %}
 						<span class="info">
 							<span class="ion ion-music-note"></span>
 						</span>
@@ -101,7 +101,7 @@
 				<div id="popup-{{ work.id | replace: '/', '-' }}" class="popup-box mfp-fade mfp-hide">
 					<div class="content">
 						<div class="image">
-							<img src="{{ work.image | relative_url }}" alt="">
+							{% picture webp "assets/img/works/{{ work.image }}" --alt "{{work.title}}" %}
 						</div>
 						<div class="desc">
 							<div class="post-box">
