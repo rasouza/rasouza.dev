@@ -45,7 +45,7 @@ layout: default
 							<span class="byline"> {{ ui_text.by }} <span class="author">{{ author }}</span></span>				
 						</div>
 						
-						{% if page.image %}
+						{% if page.show_image %}
 						<!-- blog image -->
 						<div class="blog-image">
 							{% picture blog "assets/img/blog/{{ page.image }}" --alt {{ page.title }} %}
