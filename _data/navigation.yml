@@ -25,9 +25,9 @@ main:
         - resume
   
   #blog card
-  - title: "Press"
+  - title: "Blog"
     icon: "chatbox-working"
-    slug: "press"
+    slug: "blog"
     sections:
         - blog
   
