@@ -22,7 +22,7 @@
 				<div class="resume-item{% if item.h_line == 1 %} border-line-h{% endif %}{% if item.active == 1 %} active{% endif %}">
 					{% if item.image %}
 					<div class="image">
-						<img src="/assets/img/resume/{{ item.image }}" />
+						{% picture jpt-webp "/assets/img/resume/{{ item.image }}" --alt {{ item.company }} %}
 					</div>
 					{% endif %}
 					<div class="date">{{ item.year }}</div>

@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
 
 # paginations & permalinks
-paginate: 4
+paginate: 10
 paginate_path: "/page:num/"
 permalink: pretty
 
@@ -67,6 +67,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll_picture_tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
